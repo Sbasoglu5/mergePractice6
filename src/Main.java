@@ -6,6 +6,6 @@ public class Main {
 
         Animal cat=new Animal();
         String name="Whitney";
-        String breed="American shorthair;
+        String breed="American shorthair";
     }
 }
