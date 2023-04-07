@@ -4,8 +4,14 @@ public class Main {
         car1.make="BMW";
         car1.model="528i";
 
+
         Car2 car2=new Car2();
         car2.make="Toyota";
         car2.year=2020;
+
+        Animal cat=new Animal();
+        String name="Whitney";
+        String breed="American shorthair";
+
     }
 }
